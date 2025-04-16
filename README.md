@@ -2,8 +2,8 @@
 
 📁 Repository Contents
 
-notebook: Jupyter Notebook(s) encompassing the data preprocessing, feature extraction, and model implementation, visualization steps.
+Notebook(Project): Jupyter Notebook encompassing the data preprocessing, feature extraction, visualization and model implementationsteps.
 
-results: Excel files containing the results and performance metrics of the implemented models.
+Results(Audi_cognitive_Risk_Score): Excel files containing the results and performance metrics of the implemented models.
 
-report: Comprehensive LaTeX report detailing the project's objectives, methodology, results, and conclusions.
+Report: Comprehensive LaTeX report detailing the project's objectives, methodology, results, and conclusions.
